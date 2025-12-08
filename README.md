@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | Backend Enthusiast | Clean Code Advocate</strong><br>
+  <strong>Software Engineer | Backend Enthusiast</strong><br>
   <em>"Building resilient systems and scalable architectures — one clean commit at a time."</em>
 </p>
 
