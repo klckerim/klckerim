@@ -1,16 +1,7 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Kerim&fontSize=50&fontAlign=50&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <em>Backend-focused developer figuring things out one clean commit at a time.</em>
-</p>
-
----
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Kerim%20Kilıç&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" /> </p><p align="center"> <em>Building scalable, maintainable systems — one clean commit at a time.</em> </p>
 
+---
 
 ### About Me
 Backend-focused developer. Spent a few years in banking/fintech with .NET and SQL.  
