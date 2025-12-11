@@ -2,10 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Kerim%20Kılıç&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
+---
+
 <p align="center">
-  <strong>Software Engineer | Backend Enthusiast</strong><br>
-  <em>"Building resilient systems and scalable architectures — one clean commit at a time."</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=2500&pause=1000&color=9B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineer;Crafting+Clean+%26+Scalable+Architectures;Backend+Focused+—+Fullstack+Capable" />
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/abdulkerimkilic">
@@ -28,10 +30,26 @@ I am a backend-heavy developer with a strong foundation in **Fintech** and **Ban
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,docker,git,visualstudio,vscode,java" height="55" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,tailwind,html,css" height="55" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-7A5AF8?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
 
 ---
 
