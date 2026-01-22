@@ -1,6 +1,6 @@
 ## Kerim Kılıç
 
-Backend engineer
+Backend Engineer
 
 ### Focus
 - Backend systems (.NET, REST APIs)
@@ -8,5 +8,5 @@ Backend engineer
 - Clean Architecture & maintainability
 
 ### Current work
-- FinFlow – backend-focused fintech demo
+- FinFlow – backend-focused fintech case study
 - FailureModeLab – reliability & failure-oriented backend experiments
