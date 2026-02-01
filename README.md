@@ -1,12 +1,25 @@
 ## Kerim Kılıç
-
 Backend Engineer
 
+I build backend systems with a focus on correctness, maintainability, and real-world failure cases.
+My background is mainly .NET and relational databases, and I’m currently deepening my understanding of
+system behavior under load, errors, and imperfect conditions.
+
 ### Focus
-- Backend systems (.NET, REST APIs)
-- Docker & containerized workflows
-- Clean Architecture & maintainability
+- Backend development with .NET (REST APIs, transactional flows)
+- Clean Architecture
+- Dockerized local development environments
 
 ### Current work
-- FinFlow – backend-focused fintech case study
-- FailureModeLab – reliability & failure-oriented backend experiments
+- **FinFlow** – a backend-focused fintech case study  
+  Exploring authentication flows, transactional consistency, and production-oriented API design.
+
+### Tools & stack
+- .NET / C#
+- SQL
+- Docker
+- Git
+- Javascript
+- React
+
+This profile is a work in progress, just like the systems I’m building.
