@@ -22,4 +22,8 @@ system behavior under load, errors, and imperfect conditions.
 - Javascript
 - React
 
-This profile is a work in progress, just like the systems I’m building.
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=klckerim">
+    <img src="https://komarev.com/ghpvc/?username=klckerim&label=Hello&color=0e75b6&style=flat" alt="Hello" />
+  </a>
+</p>
