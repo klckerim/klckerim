@@ -21,9 +21,3 @@ system behavior under load, errors, and imperfect conditions.
 - Git
 - Javascript
 - React
-
-<p align="left">
-  <a href="https://komarev.com/ghpvc/?username=klckerim">
-    <img src="https://komarev.com/ghpvc/?username=klckerim&label=Hello&color=0e75b6&style=flat" alt="Hello" />
-  </a>
-</p>
