@@ -1,4 +1,4 @@
-## Kerim Kılıç
+## Abdulkerim Kılıç
 Backend Engineer
 
 I build backend systems with a focus on correctness, maintainability, and real-world failure cases.
@@ -21,3 +21,7 @@ system behavior under load, errors, and imperfect conditions.
 - Git
 - Javascript
 - React
+
+<a href="https://klckerim.github.io" target="_blank" rel="noopener noreferrer">Personal Website</a>
+
+<a href="https://www.linkedin.com/in/abdulkerimkilic" target="_blank" rel="noopener noreferrer">LinkedIn</a>
